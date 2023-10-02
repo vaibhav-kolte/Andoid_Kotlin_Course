@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Toc Toy</string>
+    <string name="new_game">New Game</string>
+    <string name="game_draw">Game Draw..</string>
+    <string name="you_r_winner">You\'r Winner</string>
+    <string name="computer_winner">Computer Winner</string>
+</resources>
