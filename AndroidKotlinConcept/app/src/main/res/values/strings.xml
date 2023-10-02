@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Android Kotlin Concept</string>
+    <string name="welcome_to_my_kotlin_course">Welcome to my Kotlin course.</string>
+    <string name="welcome_to_snackbar">Welcome to Snackbar.</string>
+    <string name="ok_button_clicked">OK button clicked</string>
+    <string name="btnOK">OK</string>
+    <string name="btn_toast_message">Toast Message</string>
+    <string name="btn_snackbar">SnackBar</string>
+    <string name="btn_toast_and_snackbar">Toast and Snackbar</string>
 </resources>
