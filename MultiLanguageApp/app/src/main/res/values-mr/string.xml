@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मल्टी लँग्वेज अॅप</string>
+    <string name="navigation_drawer_open">नेव्हिगेशन ड्रॉवर उघडा</string>
+    <string name="navigation_drawer_close">नेव्हिगेशन ड्रॉवर बंद करा</string>
+    <string name="nav_header_title">Android स्टुडिओ</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">नेव्हिगेशन शीर्षलेख</string>
+    <string name="action_settings">सेटिंग्ज</string>
+
+    <string name="menu_home">मुख्यपृष्ठ</string>
+    <string name="menu_gallery">गॅलरी</string>
+    <string name="menu_slideshow">स्लाइड शो</string>
+    <string name="replace_with_your_own_action">तुमच्या स्वतःच्या कृतीने बदला</string>
+    <string name="action">कृती</string>
+    <string name="action_marathi">मराठी</string>
+    <string name="action_english">इंग्रजी</string>
+</resources>
